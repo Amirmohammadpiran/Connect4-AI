@@ -1,4 +1,6 @@
 # Connect4-AI
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 In this repository I have implemented the Connect-4 (CLI and Graphical) game using PyGame in four stages:
 
 **1-multiplayer**
